@@ -1,3 +1,7 @@
 [submodule "fbcp-ili9341"]
 	path = fbcp-ili9341
 	url = https://github.com/juj/fbcp-ili9341.git
+
+[submodule "st7789-python"]
+    path = st7789-python
+    url = https://github.com/pimoroni/st7789-python.git
