@@ -1,6 +1,6 @@
-from gpiozero import Button
+from gpiozero import Button # type: ignore
 from signal import pause
-import vlc
+import vlc # type: ignore
 
 # Initialize VLC instance
 player = vlc.Instance()
