@@ -19,7 +19,7 @@ fi
 vlc $VLC_OPTS "${MEDIA_FILES[@]}"
 
 # Image to display when VLC is not running
-IMAGE_PATH="/home/ianniemi/lilith.JPG" 
+$IMAGE_PATH="/home/ianniemi/lilith.JPG" 
 echo IMAGE_PATH
 
 # Function to check if VLC is running
